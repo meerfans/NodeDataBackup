@@ -5,9 +5,13 @@ data backup for qng node
 
 Here is a backup for qng node data, which is the data before block 1100000. This will help you quickly sync to the latest status.(这里有一个 110万高度之前的 qng 节点数据备份，它可以帮助你快速同步到最新状态。)
 
+- qitmeer.io source
+
+  https://www.qitmeer.io/resource/download/NodeDataBackup/data110.zip
+
 - github source
 
-  wget https://github.com/meerfans/NodeDataBackup/releases/download/data.110/data110.zip
+  https://github.com/meerfans/NodeDataBackup/releases/download/data.110/data110.zip
 
 - pan.baidu.com
 
