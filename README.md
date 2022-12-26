@@ -7,7 +7,7 @@ Here is a backup for qng node data, which is the data before block 1100000. This
 
 - github source
 
-  https://github.com/meerfans/NodeDataBackup/releases
+  https://github.com/meerfans/NodeDataBackup/releases/download/data.110/data110.zip
 
 - pan.baidu.com
 
